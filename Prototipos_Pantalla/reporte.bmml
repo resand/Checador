@@ -1,0 +1,37 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1034" measuredH="435" mockupW="711" mockupH="435">
+  <controls>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="323" y="0" w="711" h="435" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+        <value>19</value>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::ButtonBar" x="323" y="74" w="696" h="31" measuredW="381" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>3</selectedIndex>
+        <text>inicio%2C%20personal%2Cchedado%2Creportes%2C%20cerrar%20sesi%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::DataGrid" x="332" y="157" w="659" h="251" measuredW="503" measuredH="259" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>personal%5Cr%20v%2C%20Area%20%5Ev%2Cfecha%20%20v%2C%20entrada%2C%20salida%20%2C%20retardo%2Cfalta%20%20v%0Arene%20sandoval%5Cr%2Cdirecci%F3n%20%2C21/07/14%20%2C%207%3A00am%2C3%3A00pm%2C0%2C%5B-%5D%0Ajose%20caamal%5Cr%2Cdesarrollo%20%2C21/07/14%20%2C%207%3A10am%2C3%3A00pm%2C10%20min%2C%5B-%5D%0Amario%20vivas%5Cr%2C%20dise%F1o%20y%20analisis%2C%2021/07/14%2C%207%3A15am%2C3%3A00pm%2C15%20min%2C%5B-%5D%0Arene%20sandoval%5Cr%2Cdirecci%F3n%20%2C22/07/14%20%2C%207%3A15am%2C3%3A00pm%2C15%20min%2C%5B-%5D%0Ajose%20caamal%5Cr%2Cdesarrollo%20%2C22/07/14%20%2C%20%2C%2C%2C%5Bx%5D%0Amario%20vivas%5Cr%2C%20dise%F1o%20y%20analisis%2C%2022/07/14%2C%207%3A05am%2C3%3A00pm%2C5%20min%2C%5B-%5D%0A%20%0A%7B65L%2C%200R%2C%2035%2C%200C%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::PointyButton" x="925" y="115" w="-1" h="-1" measuredW="81" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>15658734</color>
+        <direction>left</direction>
+        <newLayout>true</newLayout>
+        <text>regresar</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::SubTitle" x="529" y="120" w="265" h="-1" measuredW="221" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Reporte%20de%20checado</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

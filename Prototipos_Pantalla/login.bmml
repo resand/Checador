@@ -1,0 +1,46 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="847" measuredH="495" mockupW="657" mockupH="495">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="190" y="0" w="657" h="495" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>15658734</color>
+        <text>A%20Web%20Page%0Ahttp%3A//localhost/checador/</text>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="424" y="252" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>./assets/icon_usuario.png%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="424" y="311" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>./assets/icon_password.png%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="479" y="255" w="97" h="-1" measuredW="58" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>usuario</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::TextInput" x="479" y="311" w="94" h="-1" measuredW="81" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>contrase%F1a</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::IconLabel" x="430" y="137" w="-1" h="-1" measuredW="176" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>./assets/icon_checador.png%7Cxlarge</icon>
+        <text>Acceso%20al%20Sistema%20Checador%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="491" y="358" w="-1" h="-1" measuredW="73" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Ingresar</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
