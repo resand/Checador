@@ -1,3 +1,3 @@
 # Checador
 
-Sistema para checar hora de entrada y salidas para la dependencia Pepinos S. A. de C. V.
+Sistema para checar hora de entrada y salida para la empresa Pepinos S. A. de C. V.
