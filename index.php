@@ -20,9 +20,10 @@
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script src="js/jquery.easydropdown.js"></script>
         <script src="js/modernizr.custom.js"></script>
+        <script src="js/login.js"></script>
 
 
-		<title>Curso de Programación Web con CodeIgniter</title>
+		<title>Iniciar Sesión</title>
     </head>
 <body>
     <section class="nav">
@@ -39,10 +40,24 @@
     <footer class="credits">
         <div class="container">
             <div class="row">
-                <div class="col6">
-                    	<h5>Cualquier duda mandar un correo a la dirección <a href="mailto:resand91@gmail.com">resand91@gmail.com</a>.</h5>
-                    <p>&copy; 2014. Todos los derechos reservados.
+            <div class="col2"></div>
+                <div class="col8">
+                <form id="form-login">
+                    <div class="form-group">
+                          <label for="emailID">Usuario</label>
+                          <input type="email" class="form-element" id="usuario" placeholder="Usuario">
+                         </div>
+                         <div class="form-group">
+                          <label for="passwordID">Contraseña</label>
+                          <input type="email" class="form-element" id="contrasena" placeholder="Contraseña">
+                         </div>
+                         
+                         <button type="submit" class="btn btn-primary" id="iniciar">Iniciar</button>
+                    </form>
+                    <span class="error"></span>
+                    	
                 </div>
+                <div class="col2"></div>
             </div>
         </div>
     </footer>
